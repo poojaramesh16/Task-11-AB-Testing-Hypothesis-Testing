@@ -1,0 +1,8 @@
+
+Statistical Result: Significant Difference Detected.
+
+Interpretation:
+The Test group shows a statistically significant improvement compared to the Control group.
+
+Business Recommendation:
+It is recommended to implement the Test variation as it performs better and is likely to improve conversions.

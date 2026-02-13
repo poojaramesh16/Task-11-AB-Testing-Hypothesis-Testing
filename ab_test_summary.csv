@@ -1,0 +1,2 @@
+Metric,Control Group,Test Group,Difference,P-Value,Decision
+Mean Conversion,0.01785410644448223,0.025546559636683747,0.007692453192201517,1.7033052627831264e-13,Significant
