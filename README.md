@@ -146,8 +146,8 @@ Based on hypothesis testing results:
 - `task11_abtest.ipynb`
 - `ab_test_summary.csv`
 - `final_recommendation.txt`
-- Dataset
-- Screenshots
+- marketing_AB
+- Screenshot
 
 ---
 
